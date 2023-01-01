@@ -1,6 +1,6 @@
 import "./WorkCardStyles.css"
 import React from 'react'
-import { NavLink } from "react-router-dom"
+// import { NavLink } from "react-router-dom"
 import "./WorkCardData.js"
 
 const WorkCard = (props) => {
